@@ -1,7 +1,9 @@
 Algorithm:
 
-1 Take a string as input.
-2 Create an empty dictionary to store character frequencies.
-3 Loop through each character in the string.
-4 For each character, update its count in the dictionary.
-5 Print the dictionary with character frequencies.
+1. Start
+2. Enter a string
+3. Create an empty dictionary to store character frequencies
+4. Loop through each character in the string
+5. For each character, update its count in the dictionary
+6. Print the dictionary with character frequencies
+7. Stop
