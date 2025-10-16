@@ -1,0 +1,7 @@
+Algorithm:
+
+1 Take a list of integers as input.
+2 Split the input into individual numbers and convert them to integers.
+3 Loop through the list and select only odd numbers.
+4 Store the odd numbers in a new list.
+5 Print the new list.

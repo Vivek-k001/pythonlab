@@ -1,0 +1,7 @@
+Algorithm:
+1 Take a list of words as input.
+2 Split the input into individual words.
+3 Initialize a variable to store the maximum length.
+4 Loop through each word and check its length.
+5 Update the maximum length if a longer word is found.
+6 Print the maximum length.
