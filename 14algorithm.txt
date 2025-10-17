@@ -1,9 +1,0 @@
-Algorithm:
-
-1. Start
-2. Enter a string
-3. Check if the length of the string is at least 3
-4. If the string ends with 'ing', add 'ly' to the end
-5. If the string does not end with 'ing', add 'ing' to the end
-6. Print the modified string
-7. Stop
