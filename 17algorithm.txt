@@ -1,9 +1,0 @@
-Algorithm:
-
-1. Start
-2. Enter key-value pairs to create a dictionary
-3. Sort the dictionary by keys in ascending order
-4. Print the sorted dictionary
-5. Sort the dictionary by keys in descending order
-6. Print the sorted dictionary
-7. Stop
