@@ -1,0 +1,13 @@
+square = lambda side: side * side
+rectangle = lambda l, b: l * b
+triangle = lambda b, h: 0.5 * b * h
+
+s = float(input())
+l = float(input())
+b = float(input())
+bt = float(input())
+h = float(input())
+
+print(square(s))
+print(rectangle(l, b))
+print(triangle(bt, h))
