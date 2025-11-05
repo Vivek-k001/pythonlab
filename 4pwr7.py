@@ -1,0 +1,4 @@
+n = int(input())
+result = list(map(lambda x: 2 ** x, range(n)))
+for i in range(n):
+    print(result[i])
